@@ -1,0 +1,11 @@
+[package]
+name = "parallel_asset_loader"
+version = "0.0.0"
+edition = "2018"
+
+[dependencies.dioxus]
+version = "0.1"
+features = ["desktop"]
+
+[dependencies.dioxus-desktop]
+version = "0.1"
